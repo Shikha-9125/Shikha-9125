@@ -41,8 +41,8 @@ I have also solved over <strong>800+ DSA problems</strong> across major coding p
 ---
 
 ### 🏅 Achievements:
-- 🌟 **700+ DSA problems** solved on LeetCode, Coding Ninjas & GFG  
-- 🥈 **2nd Rank** in inter NITJ Graphs Coding Contest by AlgoUniversity  
+- 🌟 **800+ DSA problems** solved on LeetCode, Coding Ninjas & GFG  
+- 🥈 **22nd Rank** in inter NITJ Graphs Coding Contest by AlgoUniversity  
 - 🌍 **Global Rank 3286** in CodeChef Div-2  
 - 🏆 **Best Portfolio Certificate** awarded at NITJ   
 
