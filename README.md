@@ -11,11 +11,11 @@ I have also solved over <strong>800+ DSA problems</strong> across major coding p
 
 ### 💼 About Me
 
-- 🔭 I’m currently working on **GANs** for my academic minor project   
+- 🐭 I’m currently working on **GANs** for my academic minor project   
 - 👯 I’m looking to collaborate on **open-source MERN stack apps**  
 - 🤔 I’m looking for help with **building decentralized applications (dApps)**  
 - 💬 Ask me about **React.js, Node.js, Firebase, or anything MERN-related**  
-- 📫 How to reach me: [shikha969517@gmail.com](mailto:shikha969517@gmail.com)   
+- 💋 How to reach me: [shikha969517@gmail.com](mailto:shikha969517@gmail.com)   
 
 ---
 
@@ -45,6 +45,8 @@ I have also solved over <strong>800+ DSA problems</strong> across major coding p
 - 🥈 **22nd Rank** in inter NITJ Graphs Coding Contest by AlgoUniversity  
 - 🌍 **Global Rank 3286** in CodeChef Div-2  
 - 🏆 **Best Portfolio Certificate** awarded at NITJ   
+- 🌟 **Rank 74** in **ICPC Algo Queen - The Girls Programming Cup 2025**, hosted by Amrita Vishwa Vidyapeetham and endorsed by the ICPC Foundation.  
+  <img src="/mnt/data/c977fd4b-ec97-435d-831f-142494b7a93f.png" alt="ICPC Algo Queen Certificate" width="600"/>
 
 ---
 
