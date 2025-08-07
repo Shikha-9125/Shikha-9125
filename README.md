@@ -15,7 +15,7 @@ I have also solved over <strong>800+ DSA problems</strong> across major coding p
 - 👯 I’m looking to collaborate on **open-source MERN stack apps**  
 - 🤔 I’m looking for help with **building decentralized applications (dApps)**  
 - 💬 Ask me about **React.js, Node.js, Firebase, or anything MERN-related**  
-- 💋 How to reach me: [shikha969517@gmail.com](mailto:shikha969517@gmail.com)   
+- How to reach me: [shikha969517@gmail.com](mailto:shikha969517@gmail.com)   
 
 ---
 
