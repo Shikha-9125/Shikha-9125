@@ -49,6 +49,8 @@ I have also solved over <strong>800+ DSA problems</strong> across major coding p
   <img src="/mnt/data/c977fd4b-ec97-435d-831f-142494b7a93f.png" alt="ICPC Algo Queen Certificate" width="600"/>
 
 ---
+### Hactoberfest Contributor:
+[![An image of @shikha9125's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shikha9125)](https://holopin.io/@shikha9125)
 
 ### 🔗 Let’s connect:
 - 💼 [Portfolio Website](https://my-portfolio-bay-three-86.vercel.app/)
