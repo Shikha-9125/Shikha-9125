@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-I'm <strong>Shikha Gupta</strong>, a dedicated and results-driven <strong>MERN Stack Developer</strong> and Computer Science enthusiast currently pursuing B.Tech in Electrical Engineering at <strong>NIT Jalandhar</strong>.<br/>
+I'm <strong>Shikha Gupta</strong>, a dedicated and results-driven <strong>MERN Stack Developer</strong> and Computer Science enthusiast currently pursuing B.Tech  at <strong>NIT Jalandhar</strong>.<br/>
 I specialize in building scalable web applications and real-time collaborative tools using modern web technologies.<br/>
 I am passionate about <strong>open-source contributions</strong>, problem-solving, and leveraging technology to solve real-world problems.<br/>
 I have also solved over <strong>800+ DSA problems</strong> across major coding platforms and actively participate in coding contests.
