@@ -11,7 +11,6 @@ I have also solved over <strong>800+ DSA problems</strong> across major coding p
 
 ### 💼 About Me
 
-- 🐭 I’m currently working on **GANs** for my academic minor project   
 - 👯 I’m looking to collaborate on **open-source MERN stack apps**  
 - 🤔 I’m looking for help with **building decentralized applications (dApps)**  
 - 💬 Ask me about **React.js, Node.js, Firebase, or anything MERN-related**  
